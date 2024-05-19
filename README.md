@@ -1,7 +1,7 @@
 Hi 👋 My name is sasindu nimesh
 ===============================
 
-Web developer
+Front-End developer
 -------------
 
 I like to become a web developer who is responsible for the look and feel of a website or web application. I started with HTML,CSS basically.
